@@ -5,3 +5,4 @@ if [$age -gt 100]; then
 fi    
 
 echo "bye Mr Nahounou"
+echo "bye bye the team"
