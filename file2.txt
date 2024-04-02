@@ -5,4 +5,4 @@ if [ 3 -eq 3]; then
 fi  
 
 echo "continue with our program"
-echo "bye"
+echo "welcome home"
